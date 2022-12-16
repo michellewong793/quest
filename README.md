@@ -7,6 +7,9 @@ In the future, what I would continue to build is this:
 1) Verify email process that again mocks the resulting signature and user id, and hash 
 2) Finish deploying NPM library (ran into some errors on Thursday night) 
 
+The frontend can be found here: 
+first-quest repository (still private but will make public) 
+
 ## How to build
 
 ```sh
